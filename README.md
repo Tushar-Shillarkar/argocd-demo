@@ -7,3 +7,4 @@ Demos of arogcd one shot video
 > You can get it by running `argocd cluster list`test
 test
 test
+test2
